@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 14 for Web
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChallengeEpicSpiesAssetTracker", "ChallengeEpicSpiesAssetTracker\ChallengeEpicSpiesAssetTracker.csproj", "{B09E577F-897B-4D1F-B3EA-C0F92D0AA405}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B09E577F-897B-4D1F-B3EA-C0F92D0AA405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B09E577F-897B-4D1F-B3EA-C0F92D0AA405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B09E577F-897B-4D1F-B3EA-C0F92D0AA405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B09E577F-897B-4D1F-B3EA-C0F92D0AA405}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
